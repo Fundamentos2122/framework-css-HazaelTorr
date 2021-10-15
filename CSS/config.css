@@ -41,4 +41,6 @@ html, body {
     --color-dark-clear: #191c1f;
     
     --border-color: #dee2e6;
+
+    --container-padding: 1.5em;
 }
